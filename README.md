@@ -1,3 +1,7 @@
 # WelfareHelper_SpeechToText_SwiftUI_iOS_App
 
-Demo Video: https://www.youtube.com/watch?v=fFf3CdkEm7w
+Welfare Helper provides welfare suggestions tailored to their situation.
+
+Demo: https://www.behance.net/gallery/147620515/Welfare-Helper-iOS-AI-App
+
+![ui](ui.png)
