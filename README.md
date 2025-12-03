@@ -1,4 +1,4 @@
-# WelfareHelper_SpeechToText_SwiftUI_iOS_App
+# WelfareHelper Speech-to-Text SwiftUI iOS App
 
 Welfare Helper provides welfare suggestions tailored to their situation.
 
